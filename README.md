@@ -1,15 +1,13 @@
 # The clutch vimrc
 
- Over the last 8 years @amix have used and tweaked Vim. This is @amix's Ultimate vimrc. My self being new to vim have decided to start where he has left of on a wild experiment to build on that tool and carry it into the new realm of asyncronous vim editing!!!!! 
+Over the last 8 years @amix have used and tweaked Vim. This is @amix's Ultimate vimrc. My self being new to vim have decided to start where he has left of on a wild experiment to build on that tool and carry it into the new realm of asyncronous vim editing!!!!! 
 
- ## Note this is a work in progress... 🙊
+ ## Note
+* This is a work in progress... 🙊
 
-There are two versions:
 
 * **Basic**: If you want something small just copy [basic.vim](https://github.com/AMCorvi/Corvi-Vim-Config.git) into your ~/.vimrc and you will have a great basic setup
-* **Awesome**: This includes a ton of useful plugins, color schemes and configurations
 
-I would of course recommend using the awesome version.c
 
 ## How to install ?
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
