@@ -1,11 +1,9 @@
 # The clutch vimrc
 
-Over the last 8 years @amix have used and tweaked Vim. This is @amix's Ultimate vimrc. My self being new to vim have decided to start where he has left of on a wild experiment to build on that tool and carry it into the new realm of asyncronous vim editing!!!!! 
+Over the last 8 years @amix has used and tweaked Vim. This is @amix's Ultimate vimrc. My self being new to vim has decided to start where he has left off on a wild experiment to build on that tool and carry it into the new realm of asyncronous vim editing with neovim!!!!! 
 
  ## Note
 * This is a work in progress... 🙊
-
-
 
 ## How to install ?
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
