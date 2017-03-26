@@ -6,8 +6,6 @@ Over the last 8 years @amix have used and tweaked Vim. This is @amix's Ultimate 
 * This is a work in progress... 🙊
 
 
-* **Basic**: If you want something small just copy [basic.vim](https://github.com/AMCorvi/Corvi-Vim-Config.git) into your ~/.vimrc and you will have a great basic setup
-
 
 ## How to install ?
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
