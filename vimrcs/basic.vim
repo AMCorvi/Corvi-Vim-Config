@@ -220,6 +220,11 @@ nmap <leader>wv <C-w>v
 " Horizantal Window
 nmap <leader>ws <C-w>s
 
+" Vertical Window Split Open to The Right of Current Window
+set splitright
+" Horizontal Window Split Open Below Current Window
+set splitbelow
+
 "Solo Current Window
 nmap <leader>wo <C-W><C-O>
 
@@ -272,7 +277,9 @@ set wildignore=*.o,*~,*.pyc
 if has("win16") || has("win32")
     set wildignore+=.git\*,.hg\*,.svn\*
 else
-    set wildignore+=*/.git/*,*/.hg/*,*/.svn/*,*/.DS_Store
+    " set wildignore+=*/.git/*,*/.hg/*,*/.svn/*,*/.DS_Store
+
+    set wildignore+=*/.hg/*,*/.svn/*,*/.DS_Store
 endif
 
 "Always show current position

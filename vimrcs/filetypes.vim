@@ -1,7 +1,3 @@
-
-
-
-
 """"""""""""""""""""""""""""""
 " => All section
 """"""""""""""""""""""""""""""
@@ -18,9 +14,9 @@ inoremap <buffer> [ []<esc>i
 inoremap <buffer> { {}<esc>i
 
 " Format brackets, braces, and parenthesis when adding caret return
-inoremap <buffer> [<CR> [<CR>]<esc>O
-inoremap <buffer> (<CR> (<CR>)<esc>O
-inoremap <buffer> {<CR> {<CR>}<esc>O
+inoremap <buffer> [<CR> [<CR>]<A-O>
+inoremap <buffer> (<CR> (<CR>)<A-O>
+inoremap <buffer> {<CR> {<CR>}<A-O>
 inoremap <buffer> $r return 
 inoremap <buffer> $f //--- PH<esc>FP2xi
 
